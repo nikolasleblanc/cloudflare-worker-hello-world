@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "hello-world-worker",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Nikolas LeBlanc <nikolas.leblanc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "compose-await": "^1.0.2",
+    "prettier": "^1.18.2",
+    "qs": "^6.9.0",
+    "rambda": "^3.1.0"
+  }
+}

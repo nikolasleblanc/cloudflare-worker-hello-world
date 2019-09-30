@@ -1,0 +1,6 @@
+account_id = "e32fa90043453be2faf9267a006a8ec8"
+name = "hello-world-worker"
+type = "webpack"
+route = ""
+workers_dev = true
+zone_id = ""
